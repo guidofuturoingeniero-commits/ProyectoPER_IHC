@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;700&display=swap");
+.pie {
+  background: #173d48;
+  color: white;
+  padding: 2rem 0;
+  font-family: "Nunito Sans", Arial, sans-serif;
+}
+.pie a { color: white; }
+.pie .nota { color: #e2ece9; }
+.redes { display: flex; flex-wrap: wrap; gap: 1.2rem; }
+.redes a { display: inline-flex; align-items: center; gap: .5rem; }
+.redes img { filter: invert(1); }

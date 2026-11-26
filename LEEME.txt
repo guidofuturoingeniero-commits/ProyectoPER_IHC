@@ -1,0 +1,14 @@
+MULTISERVICIOS RINGO — INICIO RÁPIDO
+1. Abre esta carpeta en Visual Studio Code.
+2. Abre index.html en un navegador o usa Live Server si ya lo tienes instalado.
+3. En escritorio, usa el menú horizontal y abre “Más” para ver el submenú vertical.
+4. En celular, pulsa “Menú” para desplegar la navegación.
+5. Explora las categorías, las fotos y el video de consejos.
+6. Completa el formulario con datos ficticios para ver la página de confirmación.
+7. Pulsa las teclas F y J al mismo tiempo para ir a Contacto.
+8. El video y la fuente de Google requieren conexión a Internet.
+
+El proyecto usa HTML y CSS, sin frameworks ni JavaScript.
+El formulario es una demostración: no guarda ni envía datos.
+Los enlaces de redes sociales son ejemplos y deben cambiarse por las cuentas oficiales.
+Agrega la dirección, teléfono y medios de contacto reales de la tienda antes de publicar.

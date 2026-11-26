@@ -1,0 +1,17 @@
+Multiservicios Ringo — proyecto académico de tienda de pinturas.
+
+Fotografías descargadas de Unsplash:
+Rodillo pintando una pared: https://images.unsplash.com/photo-1562259949-e8e7689d7828?w=1200&q=85
+Pinturas y materiales de colores: https://images.unsplash.com/photo-1560421683-6856ea585c78?w=1200&q=85
+Condiciones de uso de fotografías: https://unsplash.com/license
+
+Iconos Facebook, Instagram y YouTube: Simple Icons v15 (jsDelivr).
+https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/
+https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
+
+Favicon: SVG original para este proyecto.
+Video de referencia: “5 pasos para pintar una pared”, PintemosPRO Academia Social.
+https://www.youtube.com/watch?v=Mzx4R-ix_Wo
+El video se inserta desde YouTube; no se descarga ni se redistribuye.
+Fuente Google Fonts: Nunito Sans.
+https://fonts.google.com/specimen/Nunito+Sans
